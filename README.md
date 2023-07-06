@@ -13,7 +13,7 @@ This is a Jupyter notebook appendix that shows my work with data cleaning.
 
 This is the original file that was sent with the homework exercise and used to answer the prompts.
 
-4.[scorecard.csv](https://github.com/alexdobyan/credit_scoring/blob/main/scorecard.csv)
+4. [scorecard.csv](https://github.com/alexdobyan/credit_scoring/blob/main/scorecard.csv)
 
 This is the final scorecard logic output by the model.
 
